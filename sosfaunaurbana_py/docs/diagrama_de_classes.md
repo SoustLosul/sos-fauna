@@ -1,7 +1,6 @@
 # Diagrama de Classes UML
 
 O diagrama abaixo está em Mermaid e **aparece desenhado automaticamente no GitHub**.
-Para gerar a imagem (`diagrama_de_classes.png`), cole o código em <https://mermaid.live> e use *Download PNG*.
 
 Legenda de visibilidade: `+` público, `#` protegido (`_atributo`), `-` privado (`__atributo`).
 
