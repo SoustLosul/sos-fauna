@@ -1,6 +1,6 @@
 # Protótipos no Figma
 
-**Link de visualização:** `COLE_AQUI_O_LINK_DO_FIGMA`  <!-- TODO: trocar pelo link real (Share > Anyone with the link can view) -->
+**Link de visualização:** 
 
 ## Telas que precisam estar no protótipo
 Cada tela deve ter os estados **sucesso**, **erro** e **validação** (campo obrigatório vazio).
