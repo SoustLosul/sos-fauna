@@ -1,0 +1,5 @@
+# O SOS Fauna Urbana usa apenas a biblioteca padrao do Python 3.10 ou superior.
+# O Tkinter (interface) e o unittest (testes) ja vem junto com o Python.
+# No Linux, se faltar o Tkinter:  sudo apt install python3-tk
+#
+# Nao ha pacotes para instalar com pip.
